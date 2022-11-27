@@ -76,7 +76,7 @@ section{
     width: 0;
     height: 100%;
     color: #ffae00;
-    border-right: 2px solid #3a6cf4;
+    border-right: 2px solid #c86802;
     overflow: hidden;
     animation: animate 6s linear infinite;
 }
